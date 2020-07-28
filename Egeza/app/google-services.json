@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925484107012",
+    "firebase_url": "https://egeza20.firebaseio.com",
+    "project_id": "egeza20",
+    "storage_bucket": "egeza20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925484107012:android:6a30e6853ec835c6afbc51",
+        "android_client_info": {
+          "package_name": "com.verisence.egeza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925484107012-lj6c43789a4f6ssb7ll2op5anfo600n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verisence.egeza",
+            "certificate_hash": "fe0e02ba204f10db9271896d1b40e1b85daccbd6"
+          }
+        },
+        {
+          "client_id": "925484107012-at1h7m4aak82op2ku9qh799rdi9sk7tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeA4dKnlJMlWLGF9yAz_f63lypsvqPjUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925484107012-at1h7m4aak82op2ku9qh799rdi9sk7tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
