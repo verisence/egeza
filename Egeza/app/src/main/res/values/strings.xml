@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Egeza</string>
+    <string name="facebook_application_id" translatable="false">330907844602906</string>
+    <string name="fb_login_protocol_scheme">fb330907844602906</string>
+
 </resources>

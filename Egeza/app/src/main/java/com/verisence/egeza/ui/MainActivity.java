@@ -1,8 +1,10 @@
-package com.verisence.egeza;
+package com.verisence.egeza.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.verisence.egeza.R;
 
 public class MainActivity extends AppCompatActivity {
 
