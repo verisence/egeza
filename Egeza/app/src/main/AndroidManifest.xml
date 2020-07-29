@@ -13,7 +13,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.ProfileActivity"></activity>
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".ui.ProfileActivity"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.ProfileTheme"/>
         <activity android:name=".ui.AccountActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,7 +25,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.MainActivity"></activity>
+        <activity
+            android:label=" "
+            android:name=".ui.MainActivity"
+            android:screenOrientation="portrait"/>
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
