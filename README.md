@@ -1,10 +1,8 @@
-# ZOACK ADVENTURES
-This is an android app that allows the user to search for holiday destinations and book
+# Egeza
+This is an android app that allows the user to book parking from nearby parking lots
 
 # Contributors
 * Phil Kipkemboi(kipkemboiphil@gmail.com)
-* Abigail Wambui()
-* Mbugua Mwaura()
 
 
 # BDD
@@ -31,11 +29,7 @@ This is an android app that allows the user to search for holiday destinations a
 * Wait until the installation of APK is done the the app is ready for use.
 
 # Screenshots
-| ![<img src="/readme/1perm.jpg"](/readme/1perm.jpg)     | ![<img src="/readme/2perma.jpg"](/readme/2perma.jpg) | ![<img src="/readme/3login.jpg"](/readme/3login.jpg)   |
-|-------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|
-| ![<img src="/readme/4sign.jpg"](/readme/4sign.jpg)     | ![<img src="/readme/5main.jpg"](/readme/5main.jpg)   | ![<img src="/readme/6search.jpg"](/readme/6search.jpg) |
-| ![<img src="/readme/7result.jpg"](/readme/7result.jpg) | ![<img src="/readme/8lots.jpg"](/readme/8lots.jpg)   | ![<img src="/readme/9detail.jpg"](/readme/9detail.jpg) |
-| ![<img src="/readme/10save.jpg"](/readme/10save.jpg)   | ![<img src="/readme/11save.jpg"](/readme/11saved.jpg) |                                                       |
+                                                     |
 
 # Known bugs
 * None at the moment
