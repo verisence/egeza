@@ -5,6 +5,11 @@ android {
     compileSdkVersion 30
     buildToolsVersion "30.0.1"
 
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
     defaultConfig {
         applicationId "com.verisence.egeza"
         minSdkVersion 16
@@ -39,5 +44,11 @@ dependencies {
     implementation 'com.firebaseui:firebase-ui-auth:6.2.0'
     implementation 'com.facebook.android:facebook-android-sdk:5.15.3'
     implementation 'com.twitter.sdk.android:twitter-core:3.1.1'
-    
+
+    implementation 'com.google.android.material:material:1.1.0'
+
+    // ButterKnife
+    implementation 'com.jakewharton:butterknife:10.2.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
+
 }
