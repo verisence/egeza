@@ -78,7 +78,7 @@
         <item name="android:layout_marginLeft">10dp</item>
     </style>
 
-    <style name="proifleDetailsView">
+    <style name="profileDetailsView">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">2dp</item>
         <item name="android:background">@color/profileAccentColor</item>
